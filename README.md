@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @dgrtygry2
 - I like Windows 98SE and Windows 3.1. I also love DOS
+- I like old computers, Especially old IBM ones.
 - I am a fanguy of Windows 1.0 and DOS related programs.
-- I used to have a github account called @dgrtygry but something happened so now I'm @dgrtygry2!
+- I used to have a github account called @dgrtygry but something happened so now I'm @dgrtygry2! 
